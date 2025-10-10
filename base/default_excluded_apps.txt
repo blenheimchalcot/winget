@@ -5,7 +5,6 @@ Microsoft.Office
 Microsoft.OneDrive
 Microsoft.RemoteDesktopClient
 Microsoft.Teams*
-Mozilla.Firefox*
 Opera.Opera*
 TeamViewer.TeamViewer*
 Romanitho.Winget-AutoUpdate

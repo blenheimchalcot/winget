@@ -5,8 +5,14 @@ Microsoft.Office
 Microsoft.OneDrive
 Microsoft.RemoteDesktopClient
 Microsoft.Teams*
-Mozilla.Firefox*
 Opera.Opera*
 TeamViewer.TeamViewer*
 Romanitho.Winget-AutoUpdate
 KnifMelti.WAU-Settings-GUI
+Python.Python.3.10
+Python.Python.3.11
+Python.Python.3.12
+Python.Python.3.13
+Python.Python.3.14
+JetBrains.PyCharm
+OpenJS.NodeJS*
